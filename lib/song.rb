@@ -49,7 +49,7 @@ class Song
     new(name, artist, genre)
   end
 
-  def self.create_from_filename
+  def self.create_from_filename(filename)
   end
 
 end
